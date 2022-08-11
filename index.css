@@ -1,0 +1,49 @@
+body {
+  background-color: #eef;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  background-color: #ccf;
+  margin-top: 0px;
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 4px;
+}
+
+h3, ul {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.top {
+  padding-left: 10px;
+}
+
+#canvas_pos {
+  margin-left: 15px;
+  margin-right: 20px;
+}
+
+button {
+  margin-left: 10px;
+}
+
+input {
+  margin-left: 10px;
+}
+
+p {
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+
+.manual {
+  margin-left: 10px;
+}
